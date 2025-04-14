@@ -1,0 +1,1 @@
+{"name":"Local: duplicate","url":"e:\\SETS soulution\\duplicate.cpp","tests":[{"id":1744634337966,"input":"4\n1 2 3 1","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SETS soulution\\duplicate.cpp","group":"local","local":true}
